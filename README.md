@@ -2,6 +2,18 @@
 
 ## 21 Martie
 
+### 12:00 - 14:00 -- Intro to Python
+
+### 16:00 - 18:00 -- Intro to ML
+
 ## 22 Martie
 
+### 12:00 - 14:00 -- Linguistics
+
+### 16:00 - 18:00 -- Intro to NLP
+
 ## 23 Martie
+
+### 14:00 - 16:00 -- Intro to Deep Learning
+
+### 20:00 - 22:00 -- Advanced NLP and DL
