@@ -1,5 +1,7 @@
 # Workshops
 
+Please work on the branch that corresponds to your workshop.
+
 ## 21 Martie
 
 ### 12:00 - 14:00 -- Intro to Python
