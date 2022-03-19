@@ -18,4 +18,4 @@ Please work on the branch that corresponds to your workshop.
 
 ### 14:00 - 16:00 -- Intro to Deep Learning
 
-### 20:00 - 22:00 -- Advanced NLP and DL
+### 17:00 - 19:00 -- Advanced NLP and DL
