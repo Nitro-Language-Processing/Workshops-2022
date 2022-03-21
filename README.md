@@ -2,14 +2,14 @@
 
 ## Mon, 21 Mar
 
-### 12:00 - 14:00 – Python for Machine Learning
+### 14:00 - 16:00 – Python for Machine Learning
 
 * Speaker: _Miruna Zăvelcă_
 * Link: https://meet.zoho.eu/9Ho9gPpwf5
-* Git file: [Intro to Python](Intro%20to%20Python/)
+* Git file: [Python for ML](Python%20for%20ML/)
 * Recorded: Yes
 
-### 16:00 - 18:00 – Practical Introduction to Machine Learning
+### 18:00 - 20:00 – Practical Introduction to Machine Learning
 
 * Speaker: _Antonio Bărbălău_
 * Link: https://meet.zoho.eu/DhkQ6XVpUI
@@ -40,11 +40,11 @@
 * Git file: [Intro to DL](Intro%20to%20DL/)
 * Recorded: Yes
 
-### 17:00 - 19:00 – Transfer Learning and Transformers
+### 18:00 - 20:00 – Transfer Learning and Transformers
 
 * Speaker: _Andrei Manolache_
 * Link: https://meet.zoho.eu/ICKJdnRwni
-* Git file: [Further into DL](Further%20into%20DL/)
+* Git file: [Transfer Learning and Transformers](Transfer%20Learning%20and%20Transformers/)
 * Recorded: Yes
 
 ## Thu, 24 Mar
