@@ -7,14 +7,14 @@
 * Speaker: _Miruna Zăvelcă_
 * Link: https://meet.zoho.eu/9Ho9gPpwf5
 * Git file: [Python for ML](Python%20for%20ML/)
-* Recorded: Yes
+* Recording: http://ws1.nitronlp.rocks
 
 ### 18:00 - 20:00 – Practical Introduction to Machine Learning
 
 * Speaker: _Antonio Bărbălău_
 * Link: https://meet.zoho.eu/DhkQ6XVpUI
 * Git file: [Intro to ML](Intro%20to%20ML/)
-* Recorded: Yes
+* Recording: http://ws2.nitronlp.rocks
 
 ## Tue, 22 Mar
 
