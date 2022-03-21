@@ -5,7 +5,7 @@
 ### 14:00 - 16:00 – Python for Machine Learning
 
 * Speaker: _Miruna Zăvelcă_
-* Link: https://meet.zoho.eu/9Ho9gPpwf5
+* Link: http://ws1.nitronlp.rocks
 * Git file: [Python for ML](Python%20for%20ML/)
 * Recording: http://ws1.nitronlp.rocks
 
