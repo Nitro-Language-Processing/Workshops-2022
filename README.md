@@ -11,7 +11,6 @@
 ### 18:00 - 20:00 – Practical Introduction to Machine Learning
 
 * Speaker: _Antonio Bărbălău_
-* Link: https://meet.zoho.eu/DhkQ6XVpUI
 * Git file: [Intro to ML](Intro%20to%20ML/)
 * Recording: http://ws2.nitronlp.rocks
 
@@ -26,9 +25,8 @@
 ### 16:00 - 18:00 – Practical Introduction to Natural Language Processing
 
 * Speaker: _Matei Bejan_
-* Link: https://meet.zoho.eu/SkhIrNn2lo
 * Git file: [Intro to NLP](Intro%20to%20NLP/)
-* Recorded: Yes
+* Recording: http://ws4.nitronlp.rocks
 
 ## Wed, 23 Mar
 
