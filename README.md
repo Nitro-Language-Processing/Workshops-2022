@@ -23,7 +23,7 @@
 * Link: https://meet.zoho.eu/XIaHBnKE3W
 * Recorded: No
 
-### 18:00 - 20:00 – Practical Introduction to Natural Language Processing
+### 16:00 - 18:00 – Practical Introduction to Natural Language Processing
 
 * Speaker: _Matei Bejan_
 * Link: https://meet.zoho.eu/SkhIrNn2lo
