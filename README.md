@@ -50,3 +50,38 @@
 * Speakers: _Angeliki Lazaridou & Elena Gribovskaya_
 * Link: https://meet.zoho.eu/BVdpDAOGQC
 * Recorded: Yes
+
+---
+
+# Conferences - Thu, 24 Mar
+
+* Link: https://meet.zoho.eu/AKqB2WLKbe
+* Recorded: No
+
+### 16:30 – SaRoCo: Detecting Satire in a Novel Romanian Corpus of News Articles
+
+[drd. Mihaela Găman](https://www.linkedin.com/in/mihaela-găman-0470149b/) - Lead Data Scientist @CrowdStrike; PhD Candidate @University of Bucharest
+
+### 17:00 – Identifying Plausible Clarifications of Implicit and Underspecified Phrases in Instructional Texts
+
+[Andrei Manea](https://www.linkedin.com/in/andrei-manea-1426bb173/) - Msc Natural Language Processing Student @University of Bucharest
+
+### 17:30 – Using Luong's Attention Mechanism and Simple Classifiers to Make People Overcome Psychological Illnesses
+
+[Vasile Păpăluță](https://www.linkedin.com/in/vasile-păpăluță/) - Co-Founder/General Director @Sigmoid
+
+### 18:00 – Making Sense of Twitter @Bloomberg
+
+[dr. Daniel Preoțiuc](https://www.linkedin.com/in/danielpreotiuc) - Senior Research Scientist @Bloomberg
+
+### 19:00 – Using Dependency Parsing for Few-shot Learning in Distributional Semantics
+
+[Ștefania Preda](https://www.linkedin.com/in/stefania-preda) - Msc Machine Learning Student @University College London
+
+### 19:30 – SaRoCo: An Exploratory Analysis of the Relation Between Offensive Language and Mental Health
+
+[drd. Ana-Maria Bucur](https://www.linkedin.com/in/ana-maria-bucur/) - PhD Student @University of Bucharest
+
+### 20:00 – 
+
+[prof. dr. Liviu Dinu](https://nlp.unibuc.ro/people/liviu.html) - Director @Human Language Technologies Research Center; Professor @University of Bucharest
