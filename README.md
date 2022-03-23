@@ -39,9 +39,8 @@
 ### 18:00 - 20:00 – Transfer Learning and Transformers
 
 * Speaker: _Andrei Manolache_
-* Link: https://meet.zoho.eu/ICKJdnRwni
 * Git file: [Transfer Learning and Transformers](Transfer%20Learning%20and%20Transformers/)
-* Recorded: Yes
+* Recording: http://ws6.nitronlp.rocks
 
 ## Thu, 24 Mar
 
