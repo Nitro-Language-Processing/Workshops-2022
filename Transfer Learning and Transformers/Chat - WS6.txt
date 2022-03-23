@@ -1,0 +1,11 @@
+NickLawren : nice to meet ya
+Speaker : 👋
+Mihnea Andreescu : cu ce este un embeding diferit de un (one hot + un fc)? matricea de embedding nu seamana exrem de mult cu weights-urile de pe muchiile intre doua fc-uri?
+Mihnea Andreescu : embedingurile contextuale merg pe orice embeding initial al cuvintelor?
+Mihaela N : :super:
+livia@nitronlp.rocks : zarzare = corcoduse
+Speaker : andrei_mano@outlook.com
+Speaker : amanolache@bitdefender.com
+Mihaela N : Multumim pentru prezentare si workshop!
+Luca : la revedere!
+lucaperju : Multumim! La revedere
