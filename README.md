@@ -44,7 +44,7 @@
 
 ## Thu, 24 Mar
 
-### 11:00 - 13:00 – More of Today’s NLP by Deepmind
+### 11:00 - 13:00 – Language modeling, Transformers and Beyond
 
 * Speakers: _Angeliki Lazaridou & Elena Gribovskaya_
 * Link: https://meet.zoho.eu/BVdpDAOGQC
