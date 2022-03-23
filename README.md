@@ -81,6 +81,6 @@
 
 [drd. Ana-Maria Bucur](https://www.linkedin.com/in/ana-maria-bucur/) – PhD Student @University of Bucharest
 
-### 20:00 – 
+### 20:00 – Question Answering about Computational Linguistics
 
 [prof. dr. Liviu Dinu](https://nlp.unibuc.ro/people/liviu.html) – Director @Human Language Technologies Research Center; Professor @University of Bucharest
