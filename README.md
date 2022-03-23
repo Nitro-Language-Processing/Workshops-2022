@@ -77,7 +77,7 @@
 
 [Ștefania Preda](https://www.linkedin.com/in/stefania-preda) – Msc Machine Learning Student @University College London
 
-### 19:30 – SaRoCo: An Exploratory Analysis of the Relation Between Offensive Language and Mental Health
+### 19:30 – An Exploratory Analysis of the Relation Between Offensive Language and Mental Health
 
 [drd. Ana-Maria Bucur](https://www.linkedin.com/in/ana-maria-bucur/) – PhD Student @University of Bucharest
 
