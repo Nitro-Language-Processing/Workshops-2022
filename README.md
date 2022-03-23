@@ -33,9 +33,8 @@
 ### 14:00 - 16:00 – Practical Introduction to Deep Learning
 
 * Speaker: _Antonio Bărbălău_
-* Link: https://meet.zoho.eu/aeTaONv5di
 * Git file: [Intro to DL](Intro%20to%20DL/)
-* Recorded: Yes
+* Recording: http://ws5.nitronlp.rocks
 
 ### 18:00 - 20:00 – Transfer Learning and Transformers
 
