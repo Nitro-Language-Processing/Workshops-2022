@@ -1,4 +1,4 @@
-# Workshops
+# Workshops | First Edition
 
 ## Mon, 21 Mar
 
